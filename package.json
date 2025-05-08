@@ -1,0 +1,11 @@
+{
+    "name": "kart-app",
+    "version": "1.0.0",
+    "description": "Sample app for GitHub Actions CI with SigNoz tracing",
+    "scripts": {
+      "build": "echo '🛠️ Build successful!'",
+      "test": "echo '✅ All tests passed!' && exit 0"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
